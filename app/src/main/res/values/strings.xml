@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LILY LINETH</string>
+    <string name="btn1">C</string>
+    <string name="BTN2">INFO</string>
+    <string name="BTN3">/</string>
+    <string name="BTN4">7</string>
+    <string name="BTN5">8</string>
+    <string name="BTN6">9</string>
+    <string name="BTN7">*</string>
+    <string name="btn8">4</string>
+    <string name="BTN9">5</string>
+    <string name="bTN10">6</string>
+    <string name="bTN11">-</string>
+    <string name="BTN12">1</string>
+    <string name="btn13">2</string>
+    <string name="btn14">3</string>
+    <string name="Btn15">+</string>
+    <string name="btn16">0</string>
+    <string name="btb17">.</string>
+    <string name="btn18">=</string>
+    <string name="vertexto">R</string>
+    <string name="btnvolver">REGRESAR</string>
+</resources>
